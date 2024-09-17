@@ -1,0 +1,500 @@
+   36  git init
+   37  git commit -m "first commit"
+   38  git add .
+   39  [200~
+   40  Frish@DESKTOP-EQK9KK2 MINGW64 ~/Documents/cursos/DH/Programa/intro a la informática - L y M 4 - 6/repo2023-09-11
+   41  $ git init
+   42  Initialized empty Git repository in C:/Users/Frish/Documents/cursos/DH/Programa/intro a la informática - L y M 4 - 6/repo2023-09-11/.git/
+   43  Frish@DESKTOP-EQK9KK2 MINGW64 ~/Documents/cursos/DH/Programa/intro a la informática - L y M 4 - 6/repo2023-09-11 (main)
+   44  $ git commit -m "first commit"
+   45  On branch main
+   46  Initial commit
+   47  Untracked files:
+   48    (use "git add <file>..." to include in what will be committed)
+   49          README.md
+   50  nothing added to commit but untracked files present (use "git add" to track)
+   51  Frish@DESKTOP-EQK9KK2 MINGW64 ~/Documents/cursos/DH/Programa/intro a la informática - L y M 4 - 6/repo2023-09-11 (main)
+   52  $ git add .
+   53  Frish@DESKTOP-EQK9KK2 MINGW64 ~/Documents/cursos/DH/Programa/intro a la informática - L y M 4 - 6/repo2023-09-11 (main)
+   54  $
+   55  git commit -m "first commit"~
+   56  git branch -M main
+   57  git remote add origin https://github.com/marisolgirls/20230911-Equipo11.git
+   58  git push -u origin main
+   59  git pull origin main
+   60  git init
+   61  mkdir/touch
+   62  git clone https://github.com/marisolgirls/twitter.git
+   63  git add .
+   64  cd twitter/
+   65  git add .
+   66  git commit -m "modificando sin ser colaborador"
+   67  git push origin master
+   68  git init
+   69  git add .
+   70  git commit -m "first commit"
+   71  git remote add origin https://github.com/marisolgirls/prueba-disenio.git
+   72  git push origin master
+   73  git push origin main
+   74  pip install py2exe
+   75  pyinstaller --clean --onefile --windowed ejecutable.py
+   76  pyinstall --clean --onefile --windowed ejecutable.py
+   77  git init
+   78  git add .
+   79  git commit -m "Primer commit"
+   80  git add remote add origin https://github.com/marisolgirls/clon-google.git
+   81  git clone https://github.com/marisolgirls/clon-google.git
+   82  cd git clon-google/
+   83  cd clon-google/
+   84  git add .
+   85  git commit -m "First commit - clone"
+   86  git push origin main
+   87  git init
+   88  git init
+   89  git add .
+   90  git commit -m "first commit"
+   91  git remote add origin https://github.com/marisolgirls/portafolio.git
+   92  git push origin main
+   93  git add .
+   94  git commit -m "arreglando readme"
+   95  git push origin main
+   96  git add .
+   97  git commit -m "readme "
+   98  git push origin main
+   99  git add.
+  100  git add .
+  101  git commit -m "fin readme"
+  102  git push origin main
+  103  git add .
+  104  git commit -m "modificación logo"
+  105  git push origin main
+  106  node --version
+  107  npm -v
+  108  git clone https://github.com/jorgeduje/octubre-c2-profesor.git
+  109  git clone https://github.com/yorch-el-profe/santader-java-backend-20232.git
+  110  java --version
+  111  sqlite3.h
+  112  sqlite3
+  113  sqlite3.exe
+  114  sqlite3
+  115  sqlite3.exe
+  116  java -version
+  117  sdk install gradle 8.5
+  118  cd..
+  119  cd..
+  120  ln -s gradle-1.8 gradle
+  121  cd /isr/lcal/bin/ ; sudo ln -s /ópt/gradle/bin/gradle
+  122  cd /usr/lcal/bin/ ; sudo ln -s /ópt/gradle/bin/gradle
+  123  cd /usr/local/bin/ ; sudo ln -s /ópt/gradle/bin/gradle
+  124  cd..
+  125  cd ..
+  126  ln -s gradle-1.8 gradle
+  127  ln -s gradle-8.5 gradle
+  128  git clone https://github.com/yorch-el-profe/santander-java-testing-20232-quality.git
+  129  git config --global user.name frisha
+  130  git config --global user.name
+  131  git config --global user.name frishalin@gmail.com
+  132  git config --global user.email
+  133  git config --global user.name "frishalin@gmail.com"
+  134  git config --global user.email
+  135  $ git config --global user.email frishalin@gmail.com
+  136  git config --global user.email
+  137  git config --list
+  138  git config [--global] user.email "frishalin@gmail.com"
+  139  git config --list
+  140  global user.emai"tu_email"
+  141  global user.email
+  142  git config --global --unset credential.helper
+  143  git config --system --unset credential.helper
+  144  it config --global credential.helper manager
+  145  git init
+  146  git add .
+  147  git commit -m "clase-24-0124"
+  148  git branch -m main
+  149  git remote add origin https://github.com/frishalin1/java-bdu.git
+  150  git push -u origin main
+  151  git push -u origin main
+  152  git push origin main
+  153  git add .
+  154  git commit -m "agregando carpetas nuevas"
+  155  git push origin main
+  156  git push origin main
+  157  git add .
+  158  git commit -m "agregando carpetas nuevas"
+  159  git push origin main
+  160  git add .
+  161  git commit - "carpetas"
+  162  git push origin main
+  163  git add .
+  164  git commit -m "carpetas"
+  165  git push origin main
+  166  git init
+  167  git add .
+  168  git commit -m "actualizacion"
+  169  git remote add origin https://github.com/frishlin/portafolio.git
+  170  git push origin main
+  171  git push origin main
+  172  git init
+  173  git add .
+  174  git commit -m "portafolio actualizado"
+  175  git remote add origin https://github.com/frishlin/portafolio-2.git
+  176  git push origin main
+  177  git init
+  178  git commit -m "first commit"
+  179  git add .
+  180  git commit -m "first commit"
+  181  git remote add origin https://github.com/frishlin/calculadoraDH.git
+  182  git push origin main
+  183  git init
+  184  git add .
+  185  git commit -m "first commit"
+  186  git remote add origin https://github.com/frishlin/calculadoraDebDH.git
+  187  git push origin main
+  188  git init
+  189  git add .
+  190  git commit -m "first commit"
+  191  git remote add origin https://github.com/frishlin/DHcalculadora.git
+  192  git push origin main
+  193  ssh -i ubuntukey.pem ubuntu@3.221.170.223
+  194  ssh -i ubuntukey.pem ubuntu@200~3.16.27.192
+  195  ssh -i ubuntukey.pem ubuntu@2003.16.27.192
+  196  ssh -i ubuntukey.pem ubuntu@3.16.27.192
+  197  npx npkill
+  198  git init
+  199  git add .
+  200  git commit -m main
+  201  git commit -m "first commit"~
+  202  git branch -M main
+  203  git remote add origin https://github.com/marisolgirls/encriptador.git
+  204  git push -u origin main
+  205  git config --global user.name "marisolgirls33"
+  206  git config --global user.email "marisoslgirls@gmail.com"
+  207  git config --global user.name
+  208  git config --global user.email
+  209  git credential-cache exit
+  210  git credential-cache erase
+  211  git config --global credential.helper manager
+  212  git push -u origin main
+  213  git push -u origin main
+  214  git clone https://github.com/jpereyradh/BackEndI_C02_0724.git
+  215  git pull
+  216  git pull
+  217  git pull
+  218  git pull
+  219  git pull
+  220  git clone https://github.com/jpereyradh/BackEndI_C02_0724.git
+  221  git pull
+  222  git clone https://github.com/jpereyradh/BackEndI_C02_0724.git
+  223  git clone https://github.com/jpereyradh/BackEndI_C02_0724.git
+  224  git status
+  225  git pull
+  226  echo Hola
+  227  dir
+  228  cd downloads
+  229  dir
+  230  cd marisol
+  231  cd h2
+  232  ls
+  233  cd ..
+  234  cd h2
+  235  cd..
+  236  cd ...
+  237  cd .
+  238  cd ..
+  239  cd ..
+  240  cd downloads
+  241  ls h2
+  242  cd ..
+  243  cd h2
+  244  ls h2
+  245  cd download
+  246  cd downloads
+  247  ls h2
+  248  ls
+  249  dir
+  250  ls h2
+  251  ls /h2
+  252  cd h2
+  253  ls
+  254  dir
+  255  ls --color
+  256  cd
+  257  cd downloads
+  258  ls
+  259  ls --color
+  260  dir
+  261  ls h2
+  262  mkdir ejemplos
+  263  cd ejemplitos
+  264  mkdir ejemplitos
+  265  cd ejemplitos
+  266  echo "texto1" hola1.txt
+  267  echo "hola2" texto2.txt"
+  268  ls
+  269  ls
+  270  dir
+  271  echo "texto1" > hola1.txt
+  272  echo "texto2" > hola2.txt"
+  273  ls
+  274  ls
+  275  echo "texto2" > hola2.txt"
+  276  echo "texto2" > hola2.txt
+  277  ls
+  278  echo "hola1" > hola3.txt
+  279  diff hola1.txt hola3.txt
+  280  ls
+  281  diff hola2 hola3
+  282  diff hola2.txt hola3.txt
+  283  diff hola1.txt hola2.txt
+  284  echo "texto1" > texto4.txt
+  285  diff texto4.txt hola1.txt
+  286  ls
+  287  mv hola1.txt texto1.txt
+  288  ls
+  289  ls
+  290  cp hola2.txt hola2_copia.txt
+  291  ls
+  292  cd ..
+  293  mkdir ejemplitos2
+  294  cd ejemplitos
+  295  ls
+  296  cd ..
+  297  mv ejemplitos/hola2.txt ejemplitos2
+  298  cd ejemplitos2
+  299  ls
+  300  cd ..
+  301  cd ejemplitos
+  302  ls
+  303  cd
+  304  mv ejemplitos2 ejemplitos
+  305  cd downloads
+  306  mv ejemplitos2 ejemplitos
+  307  cd ejemplitos
+  308  ls
+  309  cd ..
+  310  tree
+  311  ls -laR
+  312  clear
+  313  sdfjsl
+  314  sdflijasdf
+  315  cd ..
+  316  pwd
+  317  pwd
+  318  CLEAR
+  319  pwc
+  320  clear
+  321  pws
+  322  psw
+  323  clear
+  324  pwd
+  325  git clone https://github.com/jpereyradh/BackEndI_C02_0724.git
+  326  git pull
+  327  git pull
+  328  git pull
+  329  git clone https://github.com/jpereyradh/BackEndI_C02_0724.git
+  330  git pull
+  331  git clone https://github.com/Widowbird/IntegradoII
+  332  pwd
+  333  git clone https://github.com/Widowbird/IntegradoII.git
+  334  git clone https://github.com/Widowbird/IntegradoII.git
+  335  git status
+  336  git status
+  337  git checkout -b nombre-de-la-rama
+  338  git branch
+  339  git branch -d nombre-de-la-rama
+  340  git branch
+  341  git branch
+  342  git branch -D nombre-de-la-rama
+  343  git branch
+  344  git checkout master
+  345  git branch
+  346  git branch -D nombre-de-la-rama
+  347  git branch
+  348  git checkout -b marisol
+  349  git add .
+  350  git status
+  351  git commit -m "eliminar odontologo"
+  352  git push -u origin marisol
+  353  git push -u origin marisol
+  354  git push -u origin marisol
+  355  git config --global user.name
+  356  git config --global user.email
+  357  git config user.name
+  358  git config user.email
+  359  [200~git config --global user.name "Nuevo Nombre"
+  360  git config --global user.name frishlin
+  361  git config --global user.email frishlin@gmail.com
+  362  git config user.email
+  363  git config user.email
+  364  git config user.name
+  365  git clone https://github.com/frishlin/IntegradoII.git
+  366  git checkout -b marisol
+  367  git add .
+  368  git commit -m "Elimina odontologo"
+  369  git push -u marisol
+  370  git push origin marisol
+  371  git remote -v
+  372  git config --global --unset credential.helper
+  373  git push origin marisol
+  374  git config --global credential.helper 'cache --timeout=3600'
+  375  git push origin marisol
+  376  git push origin marisol
+  377  git add .
+  378  git commit -m "Eliminar Paciente"
+  379  git push origin marisol
+  380  pwd
+  381  cd
+  382  pwd
+  383  cd desktop
+  384  pwd
+  385  cd repositorios/repositorios/miscambios
+  386  git config user.name frishalin
+  387  git config user.email frishalin1@gmail.com
+  388  git config user.name
+  389  git config user.email
+  390  clear
+  391  git config user.email
+  392  clear
+  393  git config user.email frishalin1@gmail.com
+  394  git config user.email
+  395  clear
+  396  git config user.name frishalin
+  397  git config user.name
+  398  clear
+  399  git status
+  400  git status
+  401  clear
+  402  git status
+  403  git add archivo2.txt
+  404  git status
+  405  git add .
+  406  git status
+  407  clear
+  408  git status
+  409  clear
+  410  git status
+  411  git add .
+  412  git commit -m "Primer commit del proyecto"
+  413  git status
+  414  git pull
+  415  git config unser.name marisolgirls
+  416  git config user.name marisolgirls
+  417  clear
+  418  pwd
+  419  git init
+  420  exit
+  421  git pull
+  422  git pull
+  423  git clone https://github.com/Widowbird/IntegradoII.git
+  424  git pull
+  425  git status
+  426  git add .
+  427  git commit -m "Front-end funcional CRUD Paciente-Odontologo"
+  428  git push
+  429  git push
+  430  exit
+  431  git status
+  432  git add .
+  433  git commit -m "USER puede gestionar turnos"
+  434  git push
+  435  git init
+  436  git commit -m "primer commit"
+  437  git branch -m frish
+  438  git remote add origin https://github.com/frishlin/probandoRepo.git
+  439  git add . 
+  440  git commit -m "first commit"
+  441  git push origin frish
+  442  git checkout -b ramita
+  443  ls -l
+  444  pwd
+  445  git add .
+  446  git commit -m "cambio desde ramita"
+  447  git push oritin ramita
+  448  git push origin ramita
+  449  git branch
+  450  git status
+  451  git status
+  452  git push
+  453  git push --set-upstream origin ramita
+  454  git push
+  455  git push ramita
+  456  git push origin ramita
+  457  git remote -v
+  458  git checkout ramita
+  459  git status
+  460  whoami
+  461  git push origin ramita
+  462  git config --global --unset credential.helper
+  463  git push origin ramita
+  464  git checkout frish
+  465  git branch -d ramita
+  466  git branch
+  467  git branch -b main
+  468  git checkout -b main
+  469  pwd
+  470  git status
+  471  git add .
+  472  git commit -m "modifica nose.txt"
+  473  git push origin main
+  474  git pull ramita
+  475  git checkout ramita
+  476  git fetch origin main
+  477  git branch main
+  478  git checkout main
+  479  git fetch origin ramita
+  480  git checkout ramita
+  481  git checkout main
+  482  git checkout ramita
+  483  git merge main
+  484  git checkout main
+  485  git status
+  486  git checkout ramita
+  487  git status
+  488  git add .
+  489  git status
+  490  git commit -m "fusión main a ramita"
+  491  git push origin ramita
+  492  git branch
+  493  npm install -g learnyouhtml
+  494  learnyouhtml
+  495  node --version
+  496  npm install -g learnyouhtml
+  497  learnyouhtml
+  498  sudo npm install -g learnyouhtml
+  499  pwd
+  500  git init
+  501  nano misPeliculas.txt
+  502  touch misCanciones.txt
+  503  git add .
+  504  git commit -m "commit 01 MJC"
+  505  git checkout -b feature
+  506  mkdir hardware
+  507  mkdir software
+  508  mkdir seguridadInformatica
+  509  cd hardware
+  510  touch resumen.txt
+  511  cd..
+  512  cd ..
+  513  cd software
+  514  touch resumen.txt
+  515  cd ..
+  516  cd seguridadInformatica/
+  517  touch resumen.txt
+  518  cd ..
+  519  git add .
+  520  git commit -m "commit 02 MJC"
+  521  git remote add origin https://github.com/frishlin/Examen-MJC.git
+  522  git push -u origin feature
+  523  git checkout main
+  524  ren misPeliculas.txt resumenHardware.txt
+  525  rename misPeliculas.txt resumenHardware.txt
+  526  mv misPeliculas.txt resumenHardware.txt
+  527   v
+  528  mv misCanciones.txt resumenSoftware.txt
+  529  nano resumenHardware.txt 
+  530  nano resumenSoftware.txt 
+  531  touch comandos.txt
+  532  git add .
+  533  git commit -m "commit 03 MJC"
+  534  git push origin main
+  535  history > comandos.txt
